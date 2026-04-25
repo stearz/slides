@@ -1,0 +1,15 @@
+{
+  "name": "slidev-lasttests-kubernetes-workloads",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx @slidev/cli --open false",
+    "build": "npx @slidev/cli build"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.14.2"
+  }
+}
